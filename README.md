@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  I am an Erasmus student doing masters in Medical Image Analysis. I am interested in Machine Learning and Computer Vision, and currently devoted in learning their application in Medical Imaging Technology. Previously, I worked as a Machine Learning Engineer at <a href="https://fusemachines.com/">Fusemachines Nepal</a>.
