@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-  I am a masters student specializing in Medical Image Analysis. I am interested in Machine Learning and Computer Vision, and currently devoted in learning their application in Medical Imaging Technology. Previously, I worked as a Machine Learning Engineer at <a href="https://fusemachines.com/">Fusemachines Nepal</a>.
+  I am a masters student specializing in <a href="https://maiamaster.udg.edu/">Medical Image Analysis</a> at the University of Girona. I am interested in Machine Learning and Computer Vision, and currently devoted in learning their application in Medical Imaging Technology. Previously, I worked as a Machine Learning Engineer at <a href="https://fusemachines.com/">Fusemachines Nepal</a>.
