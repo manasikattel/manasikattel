@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-  I am a masters student specializing in <a href="https://maiamaster.udg.edu/">Medical Image Analysis</a> at the University of Girona. Currently at University College London, working on my master's thesis. I am interested in Machine Learning and Computer Vision, and currently devoted in learning their application in Medical Imaging Technology. Previously, I worked as a Machine Learning Engineer at <a href="https://fusemachines.com/">Fusemachines Nepal</a>.
+  I am a first year PhD candidate working on multi-modal medical image registration. I did my masters on <a href="https://maiamaster.udg.edu/">Medical Image Analysis</a> at the University of Girona, University of Burgundy, University of Cassino and worked on my master's thesis at University College London. I am interested in Machine Learning and Computer Vision, and currently devoted in learning their application in Medical Imaging Technology. Previously, I worked as a Machine Learning Engineer at <a href="https://fusemachines.com/">Fusemachines Nepal</a>.
